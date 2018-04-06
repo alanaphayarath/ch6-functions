@@ -2,7 +2,7 @@
 
 # Create a variable `lyric` that contains the text "I like to eat apples and 
 # bananas"
-
+lyric <- "I like to eat apples and bananas"
 
 # Use the `substr()` function to extract the 1st through 13th letters from the 
 # `lyric`, and store the result in a variable called `intro`
